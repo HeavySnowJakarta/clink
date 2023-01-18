@@ -1,6 +1,6 @@
 # Clink
 
-This is Clink, a fork of (Blink)[https://github.com/blinksh/blink], but has much more functions.
+This is Clink, a fork of [Blink](https://github.com/blinksh/blink), but has much more functions.
 
 ## Roadmap
 
